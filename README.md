@@ -81,5 +81,5 @@ Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQL
 
 🖼️ Screenshot
 --------------
-![Screenshoot](chemin/vers/ton/image.png)
-
+[![Screenshoot]([chemin/vers/ton/image.png](https://github.com/BilalBoudjema/Text-to-SQL-OpenAI/blob/main/ScreenShoot_Web_App.png))
+](https://github.com/BilalBoudjema/Text-to-SQL-OpenAI/blob/main/ScreenShoot_Web_App.png)
