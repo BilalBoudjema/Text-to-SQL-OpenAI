@@ -58,7 +58,7 @@ Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQL
 🚀 Installation & Setup
 -----------------------
 
-1.  git clone https://github.com/your-username/text-to-sql-app.gitcd text-to-sql-app
+1.  git clone [github.com/your-username/text-to-sql-app.gitcd text-to-sql-app](https://github.com/BilalBoudjema/Text-to-SQL-OpenAI)
     
 2.  pip install -r requirements.txt
     
@@ -81,3 +81,4 @@ Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQL
 
 🖼️ Screenshot
 --------------
+
